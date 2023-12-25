@@ -7,7 +7,14 @@
     },
     "permissions": ["identity"],
     "oauth2": {
-        "client_id": "YOUR_CLIENT_ID",
-        "scopes": ["https://www.googleapis.com/auth/calendar.events"]
+        "client_id": "",
+        "scopes": [
+          "https://www.googleapis.com/auth/calendar", 
+          "https://www.googleapis.com/auth/calendar.events",
+          "https://www.googleapis.com/auth/directory.readonly"
+        ]
+    },
+    "background": {
+        "service_worker": "background.js"
     }
 }
