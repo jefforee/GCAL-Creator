@@ -18,7 +18,7 @@ const processInput = async () => {
         Authorization: `Bearer ${openAIapiKey}`,
       },
       body: JSON.stringify({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4",
         messages: [{role: "user", content: prompt}],
         max_tokens: 2048,
         temperature: 0.2,
