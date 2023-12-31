@@ -7,7 +7,7 @@
     },
     "permissions": ["identity"],
     "oauth2": {
-        "client_id": "",
+        "client_id": "FILL",
         "scopes": [
           "https://www.googleapis.com/auth/calendar", 
           "https://www.googleapis.com/auth/calendar.events",
