@@ -2,7 +2,7 @@
 
 GCAL Creator is a Google Chrome extension designed to streamline the creation of Google Calendar events by transforming user text input into dynamically generated and compelling event descriptions.
 
-Features
+## Features
 Text-to-Event Conversion: Implemented a Chrome extension that seamlessly translates user text input into Google Calendar events.
 
 OpenAI GPT-4.0 Integration: Leveraged the power of OpenAI's GPT-4.0 model to parse natural language given by text inputs and generate formatted responses for event creation.
