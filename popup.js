@@ -1,4 +1,4 @@
-All necessary information
+// All necessary information
 const openAIapiKey = "FILL";
 const openAIapiUrl = "https://api.openai.com/v1/chat/completions";
 const googleapiKey = "FILL";
