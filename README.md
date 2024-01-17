@@ -12,5 +12,7 @@ Google Calendar API: Utilizes Google Cloud for API keys and OAuth 2.0 Client IDs
 Simplified Workflow: Designed with a user-friendly interface to simplify the process of creating engaging event descriptions and seamlessly integrating them with Google Calendar. All that is required is a text input from the user to generate an event
 
 ## Demo
-https://github.com/jefforee/GCAL-Creator/assets/73720770/ae026859-f44b-44fc-8dc9-286bdb00acae
+https://github.com/jefforee/GCAL-Creator/assets/73720770/6a67a5fd-19af-4e25-8db5-278e537a9dc4
+
+
 
